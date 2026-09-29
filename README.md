@@ -1,255 +1,158 @@
-<div align="center">
+Christhu Robin Raj A
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:172554,100:312e81&height=220&section=header&text=Christhu%20Robin%20Raj%20A&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST%20%7C%20PROBLEM%20SOLVER&descAlignY=62&descSize=15" width="100%"/>
+Full Stack Developer • AI Developer • Software Engineering Enthusiast
 
-# 👋 Hello, I'm Christhu Robin Raj A
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=CHRISTHU%20ROBIN%20RAJ%20A&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20Software%20%7C%20Exploring%20AI%20%7C%20Creating%20the%20Future&descAlignY=60&descSize=16" width="100%"/>
+</p><p align="center">
+  <a href="https://github.com/robinraj8015">
+    <img src="https://img.shields.io/badge/GitHub-robinraj8015-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-16A34A?style=for-the-badge"/>
+</p>---
 
-### Full Stack Developer • AI Enthusiast • Problem Solver
+About Me
 
-**“Turning Ideas into Real World Solutions.”**
+I'm Christhu Robin Raj A, a developer focused on building practical software systems and exploring the possibilities of Artificial Intelligence.
 
-[![GitHub](https://img.shields.io/badge/GitHub-robinraj8015-050816?style=for-the-badge&logo=github)](https://github.com/robinraj8015)
+I enjoy turning ideas into real applications — from full-stack web platforms to intelligent developer tools.
 
-</div>
+My current development focus is centered around:
+
+- 🤖 Artificial Intelligence & AI Agents
+- 💻 Full-Stack Application Development
+- 🧠 Autonomous Coding Systems
+- 🏗️ Software Architecture
+- 🔐 Secure & Reliable Applications
+- 🚀 Continuous Learning & Building
 
 ---
 
-## 🧑‍💻 About Me
+Current Projects
 
-<table>
+🤖 WINTER
+
+Personal AI Assistant + Autonomous Coding Agent
+
+WINTER is my ongoing personal AI assistant project, designed to evolve into an intelligent coding and development companion.
+
+Current focus:
+
+- AI-powered request processing
+- Project inspection
+- Context & session management
+- Code generation & synthesis
+- AST-based code validation
+- Safe code modification workflows
+- Human approval before sensitive operations
+- Developer-oriented automation
+
+Technology: Python • AI • Software Architecture • Automation
+
+«"STATUS: ACTIVELY IN DEVELOPMENT"»
+
+---
+
+🏫 College Management System
+
+Web + Android Application
+
+A complete college management platform designed to manage different academic and administrative roles through a centralized system.
+
+System areas include:
+
+- Admin Management
+- Student Management
+- Teacher Management
+- HOD Management
+- Staff Management
+- Examination Management
+- Treasurer Management
+- Android Application
+- Backend APIs
+- Database Management
+
+Technology: PHP • MySQL • JavaScript • Android • REST APIs
+
+«"STATUS: ACTIVELY IN DEVELOPMENT"»
+
+---
+
+Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,javascript,html,css,mysql,mongodb,nodejs,android,git,github,vscode&perline=7" />
+</p>---
+
+Development Focus
+
+<table align="center">
 <tr>
-<td width="65%">
+<td align="center" width="250">🤖 AI
 
-I'm **Christhu Robin Raj A**, a BCA student and passionate developer interested in building modern and meaningful software solutions.
+AI Assistants
+AI Agents
+Code Generation
+Automation
 
-### What I Love Building
+</td><td align="center" width="250">💻 Development
 
-- 🤖 AI-powered applications
-- 💻 Full Stack Web Applications
-- 📱 Android Applications
-- ⚙️ Developer Tools & Automation
-- 🧠 Intelligent Software Systems
+Full Stack
+Backend Systems
+REST APIs
+Database Systems
 
-### Currently Working On
+</td><td align="center" width="250">🏗️ Engineering
 
-> ❄️ **WINTER — Personal AI Assistant + Coding Agent**
-
-My current focus is building WINTER step-by-step with intelligent request processing, code generation, automation and safety-focused development.
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=robinraj8015&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050816&title_color=8b5cf6&icon_color=00d9ff&text_color=ffffff&rank_icon=github" width="100%"/>
+Architecture
+Security
+Testing
+Scalable Systems
 
 </td>
 </tr>
-</table>
+</table>---
+
+GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=robinraj8015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinraj8015&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=robinraj8015&theme=tokyonight&hide_border=true" />
+</p>---
+
+Engineering Principles
+
+01  Build with purpose
+02  Keep systems maintainable
+03  Validate before execution
+04  Protect user data
+05  Automate repetitive work
+06  Learn by building
+07  Improve continuously
 
 ---
 
-# ⚡ Tech Stack
+Current Mission
 
-<div align="center">
+«Build intelligent software that is useful, reliable, secure, and genuinely capable of solving real-world problems.»
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,php&theme=dark"/>
-
-### Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,android,unity&theme=dark"/>
-
-### Database & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,docker,vscode&theme=dark"/>
-
-</div>
+My long-term goal is to combine Software Engineering + Artificial Intelligence + Automation to create powerful developer-focused systems.
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-## ❄️ WINTER
-
-### Personal AI Assistant + Coding Agent
-
-WINTER is my personal AI assistant and autonomous coding agent project.
-
-**Focus**
-
-- 🤖 AI Assistant
-- 💻 Coding Agent
-- 🧠 Intelligent Request Processing
-- ⚙️ Automation
-- 🔐 Safety-focused Code Generation
-- 🐍 Python 3.13
-
-### 🟢 Currently In Progress
-
-</td>
-
-<td width="50%">
-
-## 🎓 College Management System
-
-### Web + Android Application
-
-A complete college management platform designed to manage different academic and administrative operations.
-
-**Focus**
-
-- 👨‍🎓 Student Management
-- 👨‍🏫 Teacher Management
-- 🏫 Admin Panel
-- 📱 Android Application
-- 🗄️ Database Management
-- 🔐 Authentication
-
-### 🟣 Development Project
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 Project Progress
-
-### ❄️ WINTER
-
-**Personal AI Assistant + Coding Agent**
-
-`████████████████░░░░` **IN PROGRESS**
-
-Building WINTER phase-by-phase with AI, automation and coding-agent capabilities.
-
----
-
-### 🎓 College Management System
-
-**Web + Android Application**
-
-`██████████████░░░░░░` **IN PROGRESS**
-
-Developing a complete college management ecosystem.
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=robinraj8015&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050816&title_color=8b5cf6&icon_color=00d9ff&text_color=ffffff" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinraj8015&layout=compact&hide_border=true&theme=tokyonight&bg_color=050816&title_color=8b5cf6&text_color=ffffff" height="180"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=robinraj8015&theme=tokyonight&hide_border=true&background=050816&ring=8b5cf6&fire=00d9ff&currStreakLabel=ffffff" width="80%"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### ❄️
-
-**WINTER**
-
-Complete the next phases of my AI assistant.
-
-</td>
-
-<td align="center" width="25%">
-
-### 💻
-
-**FULL STACK**
-
-Build modern and scalable applications.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AI**
-
-Explore intelligent developer tools.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**BUILD**
-
-Turn ideas into real-world projects.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧠 My Developer Mindset
-
-<div align="center">
-
-## DREAM → CODE → BUILD → IMPROVE → REPEAT
-
-<br>
-
-### **Better Code. Bigger Dreams.**
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/robinraj8015">
-<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00A0DC"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:111827,100:050816&height=120&section=footer"/>
-
-### 💙 Thanks for visiting my profile!
-
-**CODE TODAY • CREATE TOMORROW**
-
-</div>
+Connect
+
+<p align="center">
+  <a href="https://github.com/robinraj8015">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>---
+
+<p align="center">
+  <i>“Build. Learn. Improve. Repeat.”</i>
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=120&section=footer"/>
+</p>
